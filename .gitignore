@@ -1,2 +1,4 @@
 input
+notebooks/models/
+notebooks/outputs/
 notebooks/.ipynb_checkpoints/
